@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Just Dance Decades of Hits Wiki",
+    "shortName": "Just Dance Decades of Hits",
+    "tagline": "Song Lists, Dance Guides, Editions & Tips Across Every Decade",
+    "description": "A fan knowledge hub for Just Dance Decades of Hits featuring song lists, dance routines, gameplay guides, editions, and tips for players exploring iconic music across multiple generations.",
+    "legalNotice": "Non-official fan wiki. Made by players, for players. Just Dance is a trademark of Ubisoft."
   },
   "nav": {
     "races": "Races",
@@ -26,21 +26,21 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Just Dance Decades of Hits Wiki - Songs, Guides & Tips",
+      "description": "Explore Just Dance Decades of Hits Wiki with complete song lists, dance guides, gameplay tips, editions, and details about iconic music from every decade."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Dance Rhythm Party Game Collection",
+      "title": "Just Dance Decades of Hits Wiki",
+      "description": "A fan knowledge hub for Just Dance Decades of Hits featuring song lists, dance routines, gameplay guides, editions, and tips for players exploring iconic music across multiple generations.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "150M+ Players Worldwide",
+        "500+ Songs Available",
+        "0 Active Codes",
+        "Seasonal Updates"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "primaryCta": "Play on Switch, PS5 & Xbox",
+      "secondaryCta": "Song Lists & Guides",
       "tertiaryCta": "Active Codes",
       "videoLabel": "Official media"
     },
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Just Dance Decades of Hits?",
+      "description": "From iconic 70s disco to 2000s pop anthems, our community wiki has you covered with free, up-to-date song lists, dance guides, and tips.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Visit the Official Site"
     }
   },
   "bosses": {
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Just Dance Decades of Hits Wiki",
+    "about": "Just Dance Decades of Hits Wiki is an independent fan-built guide hub covering song lists, dance routines, editions, platforms, and essential game knowledge for new and veteran dancers alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Just Dance Decades of Hits Wiki. Not affiliated with Ubisoft.",
+    "description": "Fan-made hub for Just Dance Decades of Hits on Nintendo Switch, PlayStation, and Xbox.",
+    "playGame": "Official Just Dance Site",
+    "officialDiscord": "r/JustDance Community",
+    "officialYoutube": "Ubisoft on YouTube",
+    "vvBuilder": "Ubisoft Official Site",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Active Codes",
+    "bossGuides": "Tier List",
+    "buildGuide": "Stage & Maps",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
