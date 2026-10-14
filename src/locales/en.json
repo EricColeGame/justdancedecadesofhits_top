@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "songs": "Songs",
+    "tracks": "Tracks",
+    "modes": "Modes",
+    "platforms": "Platforms",
+    "release": "Release"
   },
   "home": {
     "meta": {
@@ -28,7 +34,7 @@
       ],
       "primaryCta": "Play on Switch, PS5 & Xbox",
       "secondaryCta": "Song Lists & Guides",
-      "tertiaryCta": "Active Codes",
+      "tertiaryCta": "Platform Guides",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -413,13 +419,33 @@
       "secondary": "Visit the Official Site"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Just Dance Decades of Hits Guides",
+    "overviewDescription": "Beginner guide, tier list, review, and side-by-side comparisons with earlier Just Dance titles — the fastest way to get oriented in Just Dance Decades of Hits."
+  },
+  "songs": {
+    "overviewTitle": "Just Dance Decades of Hits Song Lists",
+    "overviewDescription": "Every confirmed track in Just Dance Decades of Hits, from the 1970s to the 2020s, gathered into the full song list, tracklist, playlist, and confirmed songs pages."
+  },
+  "tracks": {
+    "overviewTitle": "Just Dance Decades of Hits Track Guides",
+    "overviewDescription": "Routine-by-routine breakdowns of the marquee songs — Wannabe, Bye Bye Bye, Feel Good Inc, Uptown Girl, Mamma Mia, No Scrubs, and Crocodile Rock."
+  },
+  "modes": {
+    "overviewTitle": "Just Dance Decades of Hits Game Modes",
+    "overviewDescription": "Adventure Mode, Gold Moves, Across All Time, and the redesigned menu explained, so you know what each mode expects before you start dancing."
+  },
+  "platforms": {
+    "overviewTitle": "Just Dance Decades of Hits Platforms & Setup",
+    "overviewDescription": "Nintendo Switch, Switch 2, PS5, and Xbox details, including the code-in-box format, controller setup, and what each version of Just Dance Decades of Hits includes."
+  },
+  "release": {
+    "overviewTitle": "Just Dance Decades of Hits Release Info",
+    "overviewDescription": "Release date, price, editions, pre-order details, the announcement, and the official trailer for Just Dance Decades of Hits."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -429,7 +455,13 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "releaseInfo": "Release Info",
+    "releaseDate": "Oct 13, 2026",
+    "releaseOutNow": "Out now on Switch, PS5 and Xbox",
+    "switch2Date": "Nov 10, 2026",
+    "switch2Note": "Nintendo Switch 2 version lands a month later",
+    "viewReleaseDetails": "View release details"
   },
   "footer": {
     "aboutTitle": "Just Dance Decades of Hits Wiki",
@@ -442,12 +474,12 @@
     "playGame": "Official Just Dance Site",
     "officialDiscord": "r/JustDance Community",
     "officialYoutube": "Ubisoft on YouTube",
-    "vvBuilder": "Ubisoft Official Site",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Active Codes",
-    "bossGuides": "Tier List",
-    "buildGuide": "Stage & Maps",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "officialSite": "Ubisoft Official Site",
+    "songList": "Active Codes",
+    "modesGuide": "Tier List",
+    "platformGuides": "Stage & Maps"
   }
 }

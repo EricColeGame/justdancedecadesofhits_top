@@ -236,40 +236,54 @@ export interface NavGroup {
 }
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
+// slug 必须与 NAVIGATION_CONFIG 的分类 key 以及 content/<locale>/ 的子目录一致。
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  songs: "Song Lists",
+  tracks: "Track Guides",
+  modes: "Game Modes",
+  platforms: "Platforms & Setup",
+  release: "Release & News",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
-};
-
-// locale → 分组标题映射
+// locale → 分组标题映射（非英文侧边栏标题）
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  es: {
+    guide: "Guías para Empezar",
+    songs: "Listas de Canciones",
+    tracks: "Guías de Canciones",
+    modes: "Modos de Juego",
+    platforms: "Plataformas y Ajustes",
+    release: "Lanzamiento y Noticias",
+  },
+  fr: {
+    guide: "Pour Commencer",
+    songs: "Listes de Chansons",
+    tracks: "Guides des Titres",
+    modes: "Modes de Jeu",
+    platforms: "Plateformes et Réglages",
+    release: "Sortie et Actualités",
+  },
+  de: {
+    guide: "Erste Schritte",
+    songs: "Songlisten",
+    tracks: "Song-Guides",
+    modes: "Spielmodi",
+    platforms: "Plattformen & Setup",
+    release: "Release & News",
+  },
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  es: "Resumen",
+  fr: "Aperçu",
+  de: "Übersicht",
 };
 
-// 分组排序顺序
+// 分组排序顺序（与 NAVIGATION_CONFIG 顺序一致）
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "songs", "tracks", "modes", "platforms", "release",
 ];
 
 /**

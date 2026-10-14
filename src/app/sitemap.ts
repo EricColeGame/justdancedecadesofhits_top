@@ -8,7 +8,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://justdancedecadesofhits.top";
 
   // Static paths that always exist
-  const staticPaths = ["/", "/races", "/bosses", "/codes", "/guide", "/tier-list", "/maps", "/skills", "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
+  // 内容类型列表页必须与 NAVIGATION_CONFIG 的分类 slug 保持一致
+  const staticPaths = ["/", "/guide", "/songs", "/tracks", "/modes", "/platforms", "/release", "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
 
   // Dynamic paths: scan actual MDX content files
   const contentPaths = await getAllContentPaths("en");
@@ -21,7 +22,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       url: `${siteUrl}/${locale}${path === "/" ? "" : path}`,
       lastModified: new Date(),
       changeFrequency: path === "/" ? ("daily" as const) : ("weekly" as const),
-      priority: path === "/" ? 1 : path === "/bosses" ? 0.8 : 0.6,
+      priority: path === "/" ? 1 : path === "/songs" ? 0.8 : 0.6,
     })),
   );
 }
