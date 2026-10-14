@@ -1,1 +1,485 @@
-{}
+{
+  "site": {
+    "name": "Just Dance Decades of Hits Wiki Deutsch",
+    "shortName": "Just Dance Decades of Hits",
+    "tagline": "Songlisten, Tanzguides, Editionen und Tipps aus allen Jahrzehnten",
+    "description": "Ein von Fans erstelltes Wissensportal zu Just Dance Decades of Hits mit Songlisten, Choreografien, Gameplay-Guides, Editionen und Tipps für Spieler, die ikonische Musik aus mehreren Generationen entdecken.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler. Just Dance ist eine Marke von Ubisoft."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "songs": "Songs",
+    "tracks": "Titel",
+    "modes": "Modi",
+    "platforms": "Plattformen",
+    "release": "Release"
+  },
+  "home": {
+    "meta": {
+      "title": "Just Dance Decades of Hits Wiki - Songs, Guides und Tipps",
+      "description": "Entdecke das Just Dance Decades of Hits Wiki mit vollständigen Songlisten, Tanzguides, Gameplay-Tipps, Editionen und Details zu ikonischer Musik aus allen Jahrzehnten."
+    },
+    "hero": {
+      "eyebrow": "Sammlung von Party- und Rhythmusspielen",
+      "title": "Just Dance Decades of Hits Wiki",
+      "description": "Ein von Fans erstelltes Wissensportal zu Just Dance Decades of Hits mit Songlisten, Choreografien, Gameplay-Guides, Editionen und Tipps für Spieler, die ikonische Musik aus mehreren Generationen entdecken.",
+      "stats": [
+        "Über 150 Mio. Spieler",
+        "Über 500 Songs",
+        "0 aktive Codes",
+        "Saisonale Updates"
+      ],
+      "primaryCta": "Spiele auf Switch, PS5 und Xbox",
+      "secondaryCta": "Songlisten und Guides",
+      "tertiaryCta": "Plattform-Guides",
+      "videoLabel": "Offizielles Material"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise durch Just Dance Decades of Hits",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Neu bei Just Dance Decades of Hits? Lerne Controller-Einrichtung, Raumvorbereitung, Kalibrierung und die Scoring-Gewohnheiten, die dich von einem Stern auf vier bringen."
+        },
+        {
+          "number": "2",
+          "title": "Punkte und Sterne",
+          "description": "Verstehe, wie Timing, Handposition und Kontinuität zu Punkten und Sternen werden, und nutze das, um deine Punktzahlen schnell zu steigern."
+        },
+        {
+          "number": "3",
+          "title": "Gold-Moves",
+          "description": "Jede Choreografie verbirgt ein oder zwei blitzschnelle Gold-Moves. Triff das Zeitfenster, und eine einzige Pose kann über deinen Endrang entscheiden."
+        },
+        {
+          "number": "4",
+          "title": "Abenteuermodus",
+          "description": "Tanze durch sechs Themen-Jahrzehnte in der ersten Story-Kampagne der Serie, erledige Mini-Aktivitäten und schalte exklusive Belohnungen frei."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Songliste",
+        "Einsteiger-Guide",
+        "Tier List",
+        "Abenteuermodus"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Einrichtung, Scoring, leichte Songs und ein Ein-Wochen-Plan von einem Stern zu vier.",
+          "href": "/guide/just-dance-decades-of-hits-beginner-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Alle Songs nach Jahrzehnt",
+          "description": "Jeder bestätigte Titel in Just Dance Decades of Hits, sortiert von den 1970ern bis zu den 2020ern.",
+          "href": "/songs/just-dance-decades-of-hits-all-songs"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Song-Tier-List",
+          "description": "Bewerte jede Choreografie nach Choreografie, Wiederspielwert und Reiz ihrer Ära.",
+          "href": "/guide/just-dance-decades-of-hits-tier-list"
+        },
+        {
+          "badge": "Neu",
+          "title": "Abenteuermodus",
+          "description": "Wie die Story-Kampagne über sechs Jahrzehnte, ihre Welten und Belohnungen funktionieren.",
+          "href": "/modes/just-dance-decades-of-hits-adventure-mode"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Gold-Moves",
+          "description": "Timing-Tipps für die YEAH-Momente, die über deine Endpunktzahl entscheiden.",
+          "href": "/modes/just-dance-decades-of-hits-gold-moves"
+        },
+        {
+          "badge": "Guide",
+          "title": "Nintendo Switch",
+          "description": "Code-in-Box-Format, Einrichtungsschritte und Kaufberatung für die Switch-Version.",
+          "href": "/platforms/just-dance-decades-of-hits-nintendo-switch"
+        },
+        {
+          "badge": "Release",
+          "title": "Erscheinungsdatum",
+          "description": "Startzeiten, Plattformen und der Switch-2-Rollout für Just Dance Decades of Hits.",
+          "href": "/release/just-dance-decades-of-hits-release-date"
+        },
+        {
+          "badge": "Guide",
+          "title": "Preis und Editionen",
+          "description": "Vergleiche Editionen und erfahre, was den Preis von Just Dance Decades of Hits bestimmt.",
+          "href": "/release/just-dance-decades-of-hits-price"
+        },
+        {
+          "badge": "Medien",
+          "title": "Trailer und Medien",
+          "description": "Offizielle Enthüllung und Launch-Material für die Tanzfläche über sechs Jahrzehnte.",
+          "href": "/release/just-dance-decades-of-hits-trailer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Just Dance Decades of Hits?",
+      "paragraphs": [
+        "Just Dance Decades of Hits ist das Party- und Rhythmusspiel von Ubisoft Paris, das sechs Jahrzehnte Pop auf eine einzige Tanzfläche bringt. Statt sich auf ein einziges Chart-Jahr festzulegen, wandert die Setlist von Disco der 1970er über Synth-Pop der 1980er, Girlgroups der 1990er und Boybands der 2000er bis zu Festival-EDM der 2010er und Streaming-Hits der 2020er.",
+        "Es erschien am 13. Oktober 2026 für Nintendo Switch, PlayStation 5 und Xbox Series X|S, eine Nintendo-Switch-2-Version folgt am 10. November. Neben dem klassischen Song-und-Punkte-Spiel ergänzt es den Abenteuermodus, eine narrative Kampagne, die dich durch Themenwelten der einzelnen Jahrzehnte führt, mit Belohnungen, die du nirgendwo sonst bekommst."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Ubisoft Paris"
+        },
+        {
+          "label": "Publisher",
+          "value": "Ubisoft"
+        },
+        {
+          "label": "Genre",
+          "value": "Musik und Rhythmus"
+        },
+        {
+          "label": "Plattformen",
+          "value": "Switch · PS5 · Xbox"
+        },
+        {
+          "label": "Erscheinungsdatum",
+          "value": "13. Okt. 2026"
+        },
+        {
+          "label": "Jahrzehnte",
+          "value": "6"
+        },
+        {
+          "label": "Aushängeschild",
+          "value": "Abenteuermodus"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Entdecke das Just Dance Decades of Hits Wiki",
+      "description": "Dein Hub für Songlisten, Einsteiger-Guides, Abenteuermodus, Song-Schwierigkeit, Modi, Plattformen, Belohnungen und Release-News zu Just Dance Decades of Hits.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Songliste von Just Dance Decades of Hits",
+          "description": "Jeder bestätigte Titel in Just Dance Decades of Hits, nach Jahrzehnt von den 1970ern bis zu den 2020ern sortiert, mit Künstlern und Highlights der jeweiligen Ära.",
+          "href": "/songs/just-dance-decades-of-hits-all-songs",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Mamma Mia",
+              "detail": "ABBA — Disco-Pop-Anker der 1970er"
+            },
+            {
+              "label": "It's Tricky",
+              "detail": "Run-DMC — Drum-Machine-Energie der 1980er"
+            },
+            {
+              "label": "Wannabe",
+              "detail": "Spice Girls — Girlgroup-Pop der 1990er"
+            },
+            {
+              "label": "Bye Bye Bye",
+              "detail": "*NSYNC — Boyband-Choreografie der 2000er"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Gameplay-Guide zu Just Dance Decades of Hits",
+          "description": "Ein Schritt-für-Schritt-Durchlauf durch Just Dance Decades of Hits mit Controller-Einrichtung, Kalibrierung, Scoring und deiner ersten Übungswoche.",
+          "href": "/guide/just-dance-decades-of-hits-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Wähle einen als leicht bewerteten Song und wiederhole ihn, statt neue Choreografien vom Blatt zu tanzen."
+            },
+            {
+              "label": "2",
+              "detail": "Wähle deinen Controller: Joy-Con, eine Smartphone-App oder Kamera-Tracking."
+            },
+            {
+              "label": "3",
+              "detail": "Führe die Audio-Latenz-Kalibrierung aus, damit Lautsprecher und Bildschirm synchron bleiben."
+            },
+            {
+              "label": "4",
+              "detail": "Ahme die Arme des Coaches nach — die meisten Setups bewerten Hände stärker als Füße."
+            },
+            {
+              "label": "5",
+              "detail": "Bleib auch bei Patzern in Bewegung, um deinen Kontinuitätsbonus zu schützen."
+            },
+            {
+              "label": "6",
+              "detail": "Ziele auf drei Sterne bei drei Songs, bevor du fünf Sterne bei einem einzigen jagst."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Abenteuermodus von Just Dance Decades of Hits",
+          "description": "Die erste Story-Kampagne der Serie: sechs Themenwelten pro Jahrzehnt, Mini-Aktivitäten zwischen den Tänzen und exklusive, an den Fortschritt gebundene Belohnungen.",
+          "href": "/modes/just-dance-decades-of-hits-adventure-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Welten",
+              "detail": "Sechs Themen-Universen pro Jahrzehnt, von den 1970ern bis zu den 2020ern."
+            },
+            {
+              "label": "Reise",
+              "detail": "Songs sind zu einer Geschichte angeordnet statt zu einer flachen Liste."
+            },
+            {
+              "label": "Quests",
+              "detail": "Kleine Aktivitäten zwischen den Tänzen lockern die Choreografie auf."
+            },
+            {
+              "label": "Belohnungen",
+              "detail": "An den Fortschritt gebundene Freischaltungen, exklusiv im Abenteuermodus."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Song-Schwierigkeitsguide zu Just Dance Decades of Hits",
+          "description": "Songs nach Schwierigkeit und Einsteigerfreundlichkeit sortiert, damit du Choreografien wählst, die zu deinem aktuellen Können passen.",
+          "href": "/guide/just-dance-decades-of-hits-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Große, gut lesbare Refrains und langsame Fußarbeit — ideale erste Wahl."
+            },
+            {
+              "label": "A",
+              "detail": "Gleichmäßige Mid-Tempo-Choreografien mit klaren, sich wiederholenden Bewegungsmustern."
+            },
+            {
+              "label": "B",
+              "detail": "Schnellere Hooks, die Übung belohnen, aber schlampiges Timing bestrafen."
+            },
+            {
+              "label": "C",
+              "detail": "Schnelle Fußarbeit und enge Zeitfenster — hebe diese für später auf."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Modi-Guide zu Just Dance Decades of Hits",
+          "description": "Wie die Modi zusammenpassen: schnelles Songspiel, Party-Sessions, Playlists in Workout-Länge und die Profil- und Fortschrittssysteme dahinter.",
+          "href": "/modes/just-dance-decades-of-hits-menu",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Menü",
+              "detail": "Themenwelten pro Jahrzehnt ersetzen eine flache alphabetische Songliste."
+            },
+            {
+              "label": "Party",
+              "detail": "Gruppen- und Duett-Choreografien halten einen Raum mit gemischten Altersgruppen in Bewegung."
+            },
+            {
+              "label": "Workout",
+              "detail": "Längere Playlists von 20–30 Minuten machen Sessions zum Cardio-Training."
+            },
+            {
+              "label": "Profil",
+              "detail": "Dancer Cards verfolgen deinen Fortschritt und kosmetische Freischaltungen."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Plattformen und Einrichtung für Just Dance Decades of Hits",
+          "description": "Erscheinungsdaten, Code-in-Box-Details und Einrichtungshinweise für jede Plattform, auf der Just Dance Decades of Hits erscheint.",
+          "href": "/platforms/just-dance-decades-of-hits-nintendo-switch",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Switch",
+              "detail": "13. Oktober 2026 — Code-in-Box Limited Edition"
+            },
+            {
+              "label": "PS5",
+              "detail": "13. Oktober 2026 — Current-Gen-Launchtitel"
+            },
+            {
+              "label": "Xbox",
+              "detail": "13. Oktober 2026 — Xbox Series X|S"
+            },
+            {
+              "label": "Switch 2",
+              "detail": "10. November 2026 — rund vier Wochen später"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Belohnungen und Freischaltungen in Just Dance Decades of Hits",
+          "description": "Kosmetik, Dancer-Card-Optionen und die exklusiven Freischaltungen, die du durch Fortschritt im Abenteuermodus und bei Gold-Moves verdienst.",
+          "href": "/modes/just-dance-decades-of-hits-gold-moves",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kosmetik",
+              "detail": "Stile des digitalen 2000er-Pakets für deine Dancer Card."
+            },
+            {
+              "label": "Effekte",
+              "detail": "Scoring- und Feier-Effekte, die du durch regelmäßiges Spielen verdienst."
+            },
+            {
+              "label": "Freischaltungen",
+              "detail": "Belohnungen aus dem Abenteuermodus, die du nirgendwo sonst bekommst."
+            },
+            {
+              "label": "Yeah",
+              "detail": "Ein gelandeter Gold-Move blitzt YEAH auf und zahlt einen riesigen Bonus."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "News und Updates zu Just Dance Decades of Hits",
+          "description": "Offizielle Ankündigungen, Launch-Details, Trailer und der Plattform-Rollout, während Ubisoft mehr zum Spiel bestätigt.",
+          "href": "/release/just-dance-decades-of-hits-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Launch",
+              "detail": "Das Spiel erschien am 13. Oktober 2026."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendos neueste Konsole bekommt ihr eigenes Datum am 10. November."
+            },
+            {
+              "label": "Trailer",
+              "detail": "Offizielle Enthüllung und Launch-Material von Ubisoft."
+            },
+            {
+              "label": "Updates",
+              "detail": "Bestätigte Titelzugänge und News nach dem Launch."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Just Dance Decades of Hits.",
+      "items": [
+        {
+          "question": "Was ist Just Dance Decades of Hits?",
+          "answer": "Just Dance Decades of Hits ist das Party- und Rhythmusspiel von Ubisoft Paris, das sechs Jahrzehnte Musik — von den 1970ern bis zu den 2020ern — auf eine Tanzfläche bringt. Es erschien am 13. Oktober 2026 für Nintendo Switch, PlayStation 5 und Xbox Series X|S, eine Nintendo-Switch-2-Version folgt am 10. November."
+        },
+        {
+          "question": "Auf welchen Plattformen kann man Just Dance Decades of Hits spielen?",
+          "answer": "Es ist auf Nintendo Switch, PlayStation 5 und Xbox Series X|S erhältlich, die Nintendo-Switch-2-Version erscheint am 10. November 2026. Eine PlayStation-4-, Xbox-One- oder PC-Version gibt es im bestätigten Line-up nicht."
+        },
+        {
+          "question": "Hat Just Dance Decades of Hits einen Story-Modus?",
+          "answer": "Ja. Der Abenteuermodus ist die erste narrative Kampagne der Serie und exklusiv in Just Dance Decades of Hits. Er führt dich durch sechs Themenwelten pro Jahrzehnt mit kleinen Aktivitäten zwischen den Tänzen und freischaltbaren Belohnungen, die an deinen Fortschritt gebunden sind."
+        },
+        {
+          "question": "Wie bekommt man mehr Sterne in Just Dance Decades of Hits?",
+          "answer": "Das Scoring belohnt Timing, Handposition und Kontinuität. Die meisten Setups lesen den Controller in deiner Hand stärker als deine Füße, also ahme die Armbewegungen des Coaches nach, bleib auch bei Patzern in Bewegung und wiederhole einen Song, um seine Muster zu lernen, statt neue Choreografien vom Blatt zu tanzen."
+        },
+        {
+          "question": "Was sind Gold-Moves in Just Dance Decades of Hits?",
+          "answer": "Gold-Moves sind die ein oder zwei blitzschnellen Posen, die in jeder Choreografie versteckt sind. Sie geben eine große Einzelauszahlung und liefern binäres Feedback — ein YEAH, wenn du das Fenster triffst, ein X, wenn du es verpasst —, sodass ihre Umsetzung über deinen Endrang entscheiden kann."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Just Dance Decades of Hits zu meistern?",
+      "description": "Vom ikonischen Disco der 70er bis zu den Pop-Hymnen der 2000er deckt dich unser Community-Wiki mit kostenlosen, aktuellen Songlisten, Tanzguides und Tipps ab.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Offizielle Website besuchen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guides zu Just Dance Decades of Hits",
+    "overviewDescription": "Einsteiger-Guide, Tier List, Test und direkte Vergleiche mit früheren Just Dance-Titeln — der schnellste Weg, sich in Just Dance Decades of Hits zurechtzufinden."
+  },
+  "songs": {
+    "overviewTitle": "Songlisten zu Just Dance Decades of Hits",
+    "overviewDescription": "Jeder bestätigte Titel in Just Dance Decades of Hits, von den 1970ern bis zu den 2020ern, gesammelt in den Seiten vollständige Songliste, Tracklist, Playlist und bestätigte Songs."
+  },
+  "tracks": {
+    "overviewTitle": "Titel-Guides zu Just Dance Decades of Hits",
+    "overviewDescription": "Analysen Choreografie für Choreografie zu den wichtigsten Songs — Wannabe, Bye Bye Bye, Feel Good Inc, Uptown Girl, Mamma Mia, No Scrubs und Crocodile Rock."
+  },
+  "modes": {
+    "overviewTitle": "Spielmodi von Just Dance Decades of Hits",
+    "overviewDescription": "Abenteuermodus, Gold-Moves, Across All Time und das überarbeitete Menü erklärt, damit du weißt, was jeder Modus erwartet, bevor du zu tanzen beginnst."
+  },
+  "platforms": {
+    "overviewTitle": "Plattformen und Einrichtung bei Just Dance Decades of Hits",
+    "overviewDescription": "Details zu Nintendo Switch, Switch 2, PS5 und Xbox, inklusive Code-in-Box-Format, Controller-Einrichtung und dem Inhalt jeder Version von Just Dance Decades of Hits."
+  },
+  "release": {
+    "overviewTitle": "Release-Infos zu Just Dance Decades of Hits",
+    "overviewDescription": "Erscheinungsdatum, Preis, Editionen, Vorbestell-Details, die Ankündigung und der offizielle Trailer zu Just Dance Decades of Hits."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "updated": "Aktualisiert",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielles Material",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!",
+    "releaseInfo": "Release-Infos",
+    "releaseDate": "13. Okt. 2026",
+    "releaseOutNow": "Jetzt erhältlich für Switch, PS5 und Xbox",
+    "switch2Date": "10. Nov. 2026",
+    "switch2Note": "Die Nintendo-Switch-2-Version erscheint einen Monat später",
+    "viewReleaseDetails": "Release-Details ansehen"
+  },
+  "footer": {
+    "aboutTitle": "Just Dance Decades of Hits Wiki Deutsch",
+    "about": "Das Just Dance Decades of Hits Wiki ist ein unabhängiges, von Fans erstelltes Guide-Portal zu Songlisten, Choreografien, Editionen, Plattformen und wichtigem Spielwissen — für neue wie erfahrene Tänzer.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Just Dance Decades of Hits Wiki. Nicht mit Ubisoft verbunden.",
+    "description": "Von Fans erstelltes Portal zu Just Dance Decades of Hits für Nintendo Switch, PlayStation und Xbox.",
+    "playGame": "Offizielle Just Dance-Website",
+    "officialDiscord": "r/JustDance-Community",
+    "officialYoutube": "Ubisoft auf YouTube",
+    "beginnerGuide": "Einsteiger-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "officialSite": "Offizielle Ubisoft-Website",
+    "songList": "Songlisten",
+    "modesGuide": "Spielmodi",
+    "platformGuides": "Plattformen und Einrichtung"
+  }
+}
