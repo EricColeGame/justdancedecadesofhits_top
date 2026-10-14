@@ -31,6 +31,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.reddit.com/r/JustDance/",
     youtube: "https://www.youtube.com/@Ubisoft",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "fr", "de"],
   defaultLocale: "en",
 };
