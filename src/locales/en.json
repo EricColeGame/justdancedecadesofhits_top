@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Just Dance Decades of Hits Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to Just Dance Decades of Hits? Learn controller setup, room prep, calibration, and the scoring habits that take you from one star to four."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Scoring & Stars",
+          "description": "Understand how timing, hand position, and continuity turn into points and star ratings, then use that to raise your scores fast."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Gold Moves",
+          "description": "Every routine hides one or two split-second Gold Moves. Nail the timing window and a single pose can decide your final rank."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Adventure Mode",
+          "description": "Dance through six themed decades in the series' first story campaign, complete mini-activities, and unlock rewards only available here."
         }
       ]
     },
@@ -66,237 +66,315 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Song List",
+        "Beginner Guide",
+        "Tier List",
+        "Adventure Mode"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Setup, scoring, easy song picks, and a one-week plan to go from one star to four.",
+          "href": "/guide/just-dance-decades-of-hits-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "All Songs by Decade",
+          "description": "Every confirmed track in Just Dance Decades of Hits, sorted from the 1970s to the 2020s.",
+          "href": "/songs/just-dance-decades-of-hits-all-songs"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Song Tier List",
+          "description": "Rank every routine by choreography, replayability, and era appeal.",
+          "href": "/guide/just-dance-decades-of-hits-tier-list"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Adventure Mode",
+          "description": "How the six-decade story campaign, its worlds, and its rewards work.",
+          "href": "/modes/just-dance-decades-of-hits-adventure-mode"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Gold Moves",
+          "description": "Timing tips for the YEAH moments that decide your final score.",
+          "href": "/modes/just-dance-decades-of-hits-gold-moves"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Guide",
+          "title": "Nintendo Switch",
+          "description": "Code-in-box format, setup steps, and buying advice for the Switch release.",
+          "href": "/platforms/just-dance-decades-of-hits-nintendo-switch"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Release",
+          "title": "Release Date",
+          "description": "Launch times, platforms, and the Switch 2 rollout for Just Dance Decades of Hits.",
+          "href": "/release/just-dance-decades-of-hits-release-date"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Guide",
+          "title": "Price & Editions",
+          "description": "Compare editions and see what shapes the Just Dance Decades of Hits price.",
+          "href": "/release/just-dance-decades-of-hits-price"
+        },
+        {
+          "badge": "Media",
+          "title": "Trailer & Media",
+          "description": "Official reveal and launch footage for the six-decade dance floor.",
+          "href": "/release/just-dance-decades-of-hits-trailer"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Just Dance Decades of Hits?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Just Dance Decades of Hits is Ubisoft Paris' rhythm party game that turns six decades of pop into a single dance floor. Instead of locking into one year of the charts, the setlist moves from 1970s disco through 1980s synth-pop, 1990s girl groups, 2000s boy bands, 2010s festival EDM, and 2020s streaming hits.",
+        "It launched on October 13, 2026 for Nintendo Switch, PlayStation 5, and Xbox Series X|S, with a Nintendo Switch 2 version following on November 10. Alongside classic song-and-score play, it adds Adventure Mode, a narrative campaign that guides you through themed decade worlds with rewards you cannot earn anywhere else."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Ubisoft Paris"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Ubisoft"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Music & Rhythm"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Platforms",
+          "value": "Switch · PS5 · Xbox"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Release Date",
+          "value": "Oct 13, 2026"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Decades",
+          "value": "6"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Signature Mode",
+          "value": "Adventure Mode"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Just Dance Decades of Hits Wiki",
+      "description": "Your hub for Just Dance Decades of Hits song lists, beginner guides, Adventure Mode, song difficulty, modes, platforms, rewards, and release news.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Just Dance Decades of Hits Song List",
+          "description": "Every confirmed track in Just Dance Decades of Hits, sorted by decade from the 1970s to the 2020s, with artists and era highlights.",
+          "href": "/songs/just-dance-decades-of-hits-all-songs",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Mamma Mia",
+              "detail": "ABBA — 1970s disco-pop anchor"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "It's Tricky",
+              "detail": "Run-DMC — 1980s drum-machine energy"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Wannabe",
+              "detail": "Spice Girls — 1990s girl-group pop"
+            },
+            {
+              "label": "Bye Bye Bye",
+              "detail": "*NSYNC — 2000s boy-band choreography"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Just Dance Decades of Hits Gameplay Guide",
+          "description": "A step-by-step Just Dance Decades of Hits walkthrough covering controller setup, calibration, scoring, and your first practice week.",
+          "href": "/guide/just-dance-decades-of-hits-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Pick one easy-rated song and replay it instead of sight-reading new routines."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Choose your controller: Joy-Con, a smartphone app, or camera tracking."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Run the audio-lag calibration so the speaker and screen stay in sync."
+            },
+            {
+              "label": "4",
+              "detail": "Mirror the coach's arms — most setups score hands more than feet."
+            },
+            {
+              "label": "5",
+              "detail": "Keep moving through misses to protect your continuity bonus."
+            },
+            {
+              "label": "6",
+              "detail": "Aim for three stars on three songs before chasing five stars on one."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Just Dance Decades of Hits Adventure Mode",
+          "description": "The series' first story campaign: six themed decade worlds, mini-activities between dances, and exclusive rewards tied to progress.",
+          "href": "/modes/just-dance-decades-of-hits-adventure-mode",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Worlds",
+              "detail": "Six decade-themed universes from the 1970s to the 2020s."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Journey",
+              "detail": "Songs are sequenced into a story instead of a flat list."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Quests",
+              "detail": "Small activities between dances break up the choreography."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Rewards",
+              "detail": "Unlockables tied to progress, exclusive to Adventure Mode."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Just Dance Decades of Hits Song Difficulty Guide",
+          "description": "Songs ranked by difficulty and beginner friendliness so you can pick routines that match your current skill level.",
+          "href": "/guide/just-dance-decades-of-hits-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Big, readable choruses and slow footwork — ideal first picks."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Steady mid-tempo routines with clear, repeating move patterns."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Faster hooks that reward practice but punish sloppy timing."
+            },
+            {
+              "label": "C",
+              "detail": "Rapid footwork and tight timing windows — save these for later."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Just Dance Decades of Hits Modes Guide",
+          "description": "How the modes fit together: quick song play, party sessions, workout-length playlists, and the profile and progress systems behind them.",
+          "href": "/modes/just-dance-decades-of-hits-menu",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Menu",
+              "detail": "Themed decade worlds replace a flat alphabetical song list."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Party",
+              "detail": "Group and duet routines keep a room of mixed ages dancing."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Workout",
+              "detail": "Longer 20–30 minute playlists turn sessions into cardio."
+            },
+            {
+              "label": "Profile",
+              "detail": "Dancer Cards track your progress and cosmetic unlocks."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Just Dance Decades of Hits Platforms and Setup",
+          "description": "Release dates, code-in-box details, and setup notes for every platform Just Dance Decades of Hits ships on.",
+          "href": "/platforms/just-dance-decades-of-hits-nintendo-switch",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Switch",
+              "detail": "October 13, 2026 — code-in-box Limited Edition"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "PS5",
+              "detail": "October 13, 2026 — current-gen launch title"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Xbox",
+              "detail": "October 13, 2026 — Xbox Series X|S"
+            },
+            {
+              "label": "Switch 2",
+              "detail": "November 10, 2026 — roughly four weeks later"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Just Dance Decades of Hits Rewards and Unlocks",
+          "description": "Cosmetics, Dancer Card options, and the exclusive unlocks you earn by progressing through Adventure Mode and Gold Moves.",
+          "href": "/modes/just-dance-decades-of-hits-gold-moves",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cosmetics",
+              "detail": "2000s Digital Cosmetic Pack styles for your Dancer Card."
+            },
+            {
+              "label": "Effects",
+              "detail": "Scoring and celebration effects earned through regular play."
+            },
+            {
+              "label": "Unlocks",
+              "detail": "Adventure Mode rewards you cannot get anywhere else."
+            },
+            {
+              "label": "Yeah",
+              "detail": "Landing a Gold Move flashes YEAH and pays a huge bonus."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Just Dance Decades of Hits News and Updates",
+          "description": "Official announcements, launch details, trailers, and the platform rollout as Ubisoft confirms more about the game.",
+          "href": "/release/just-dance-decades-of-hits-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Launch",
+              "detail": "The game arrived on October 13, 2026."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo's newest console gets its own November 10 date."
+            },
+            {
+              "label": "Trailer",
+              "detail": "Official reveal and launch footage from Ubisoft."
+            },
+            {
+              "label": "Updates",
+              "detail": "Confirmed track additions and post-launch news."
             }
           ]
         }
@@ -304,27 +382,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Just Dance Decades of Hits.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Just Dance Decades of Hits?",
+          "answer": "Just Dance Decades of Hits is Ubisoft Paris' rhythm party game that packs six decades of music — the 1970s through the 2020s — into one dance floor. It launched on October 13, 2026 for Nintendo Switch, PlayStation 5, and Xbox Series X|S, with a Nintendo Switch 2 version following on November 10."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which platforms can play Just Dance Decades of Hits?",
+          "answer": "It is available on Nintendo Switch, PlayStation 5, and Xbox Series X|S, with the Nintendo Switch 2 release arriving November 10, 2026. There is no PlayStation 4, Xbox One, or PC version in the confirmed lineup."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Does Just Dance Decades of Hits have a story mode?",
+          "answer": "Yes. Adventure Mode is the series' first narrative campaign and is exclusive to Just Dance Decades of Hits. It walks you through six themed decade worlds with small activities between dances and unlockable rewards tied to your progress."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do you score more stars in Just Dance Decades of Hits?",
+          "answer": "Scoring rewards timing, hand position, and continuity. Most setups read the controller in your hand more than your feet, so mirror the coach's arm paths, keep moving through misses, and replay a song to learn its patterns instead of sight-reading new routines."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What are Gold Moves in Just Dance Decades of Hits?",
+          "answer": "Gold Moves are the one or two split-second poses hidden in every routine. They award a large single payout and give binary feedback — a YEAH if you hit the window, an X if you miss — so converting them can decide your final rank."
         }
       ]
     },
